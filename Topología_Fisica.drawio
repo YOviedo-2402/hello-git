@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T20:09:44.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dExsD6HMSqGkeamXQDuI" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T20:13:01.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Y7JfKDPCBok0COfhIIto" version="21.6.5" type="github">
   <diagram name="Página-1" id="ZtzgwEjl2Cv6G8Xilo4Q">
     <mxGraphModel dx="2084" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
           <mxGeometry x="320" y="520" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p3cnILY55uEZjmTNNNlR-29" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Shitch Datacenter&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="630" width="160" height="30" as="geometry" />
+          <mxGeometry x="-190" y="720" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="p3cnILY55uEZjmTNNNlR-38" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" vertex="1" parent="1">
           <mxGeometry x="920" y="585" width="80" height="119.36" as="geometry" />
@@ -178,6 +178,15 @@
         </mxCell>
         <mxCell id="p3cnILY55uEZjmTNNNlR-56" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Access Point&lt;br&gt;Infraestructura&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-440" y="540" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="p3cnILY55uEZjmTNNNlR-60" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Shitch Bunker&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="720" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p3cnILY55uEZjmTNNNlR-62" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Shitch Bodega&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="420" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p3cnILY55uEZjmTNNNlR-63" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Shitch DRP&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="755" y="800" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
