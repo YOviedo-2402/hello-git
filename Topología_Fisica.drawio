@@ -1,9 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T17:54:44.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.5" etag="XesrGQnjwsn8QdZiJWU4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T18:20:22.554Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Qfov9XmnjL70LM0iXxoN" version="21.6.5" type="github">
   <diagram name="Página-1" id="ZtzgwEjl2Cv6G8Xilo4Q">
-    <mxGraphModel>
+    <mxGraphModel dx="1035" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="p3cnILY55uEZjmTNNNlR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3cnILY55uEZjmTNNNlR-1" target="p3cnILY55uEZjmTNNNlR-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="190" as="sourcePoint" />
+            <mxPoint x="345" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="165" />
+              <mxPoint x="210" y="320" />
+              <mxPoint x="345" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="" id="p3cnILY55uEZjmTNNNlR-1">
+          <mxCell style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloud_development_kit;" vertex="1" parent="1">
+            <mxGeometry x="60" y="120" width="90" height="90" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="p3cnILY55uEZjmTNNNlR-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3cnILY55uEZjmTNNNlR-2" target="p3cnILY55uEZjmTNNNlR-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="190" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="640" y="165" />
+              <mxPoint x="640" y="320" />
+              <mxPoint x="480" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object label="" id="p3cnILY55uEZjmTNNNlR-2">
+          <mxCell style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloud_development_kit;" vertex="1" parent="1">
+            <mxGeometry x="680" y="120" width="90" height="90" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="p3cnILY55uEZjmTNNNlR-6" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl659a_aruba_6300m_48_port_hpe_smart_rate_1_2_5_5gbe_class_6_poe_and_4_port_switch;" vertex="1" parent="1">
+          <mxGeometry x="240" y="390" width="340" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p3cnILY55uEZjmTNNNlR-7" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.switches.jl659a_aruba_6300m_48_port_hpe_smart_rate_1_2_5_5gbe_class_6_poe_and_4_port_switch;" vertex="1" parent="1">
+          <mxGeometry x="240" y="460" width="340" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p3cnILY55uEZjmTNNNlR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3cnILY55uEZjmTNNNlR-9" target="p3cnILY55uEZjmTNNNlR-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3cnILY55uEZjmTNNNlR-9" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p3cnILY55uEZjmTNNNlR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3cnILY55uEZjmTNNNlR-11" target="p3cnILY55uEZjmTNNNlR-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="84" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p3cnILY55uEZjmTNNNlR-11" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.f5.big_ip_6900;" vertex="1" parent="1">
+          <mxGeometry y="290" width="168" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
