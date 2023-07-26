@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T21:19:39.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="y3KJSYQFLn1j0Zl60jpV" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T21:21:05.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="p5G6ThinMZX5uL-ocBcN" version="21.6.5" type="github">
   <diagram name="Página-1" id="ZtzgwEjl2Cv6G8Xilo4Q">
     <mxGraphModel dx="2294" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,7 +141,7 @@
         <mxCell id="p3cnILY55uEZjmTNNNlR-39" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="630" y="585.32" width="80" height="119.36" as="geometry" />
         </mxCell>
-        <mxCell id="p3cnILY55uEZjmTNNNlR-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.374;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="p3cnILY55uEZjmTNNNlR-42" target="p3cnILY55uEZjmTNNNlR-39">
+        <mxCell id="p3cnILY55uEZjmTNNNlR-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.374;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#001DBC;fontColor=default;fillColor=#0050ef;strokeWidth=3;" edge="1" parent="1" source="p3cnILY55uEZjmTNNNlR-42" target="p3cnILY55uEZjmTNNNlR-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p3cnILY55uEZjmTNNNlR-42" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Access Point&lt;br&gt;Sala Juntas&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="1">
@@ -150,7 +150,7 @@
         <mxCell id="p3cnILY55uEZjmTNNNlR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="p3cnILY55uEZjmTNNNlR-45" target="p3cnILY55uEZjmTNNNlR-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p3cnILY55uEZjmTNNNlR-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="p3cnILY55uEZjmTNNNlR-45" target="p3cnILY55uEZjmTNNNlR-38">
+        <mxCell id="p3cnILY55uEZjmTNNNlR-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#001DBC;fontColor=default;fillColor=#0050ef;strokeWidth=2;" edge="1" parent="1" source="p3cnILY55uEZjmTNNNlR-45" target="p3cnILY55uEZjmTNNNlR-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p3cnILY55uEZjmTNNNlR-45" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Access Point&lt;br&gt;Gerencia&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="1">
@@ -165,19 +165,19 @@
         <mxCell id="p3cnILY55uEZjmTNNNlR-50" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="-280" y="500.00000000000006" width="80" height="119.36" as="geometry" />
         </mxCell>
-        <mxCell id="p3cnILY55uEZjmTNNNlR-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="p3cnILY55uEZjmTNNNlR-54" target="p3cnILY55uEZjmTNNNlR-48">
+        <mxCell id="p3cnILY55uEZjmTNNNlR-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#001DBC;fontColor=default;fillColor=#0050ef;strokeWidth=2;" edge="1" parent="1" source="p3cnILY55uEZjmTNNNlR-54" target="p3cnILY55uEZjmTNNNlR-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p3cnILY55uEZjmTNNNlR-54" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Access Point&lt;br&gt;Administración&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="-550" y="344.68" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p3cnILY55uEZjmTNNNlR-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="p3cnILY55uEZjmTNNNlR-55" target="p3cnILY55uEZjmTNNNlR-49">
+        <mxCell id="p3cnILY55uEZjmTNNNlR-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#001DBC;fontColor=default;fillColor=#0050ef;strokeWidth=2;" edge="1" parent="1" source="p3cnILY55uEZjmTNNNlR-55" target="p3cnILY55uEZjmTNNNlR-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p3cnILY55uEZjmTNNNlR-55" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Access Point&lt;br&gt;Comercial&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="-550" y="720" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="p3cnILY55uEZjmTNNNlR-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="p3cnILY55uEZjmTNNNlR-56" target="p3cnILY55uEZjmTNNNlR-50">
+        <mxCell id="p3cnILY55uEZjmTNNNlR-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#001DBC;fontColor=default;fillColor=#0050ef;strokeWidth=2;" edge="1" parent="1" source="p3cnILY55uEZjmTNNNlR-56" target="p3cnILY55uEZjmTNNNlR-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p3cnILY55uEZjmTNNNlR-56" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Access Point&lt;br&gt;Infraestructura&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="1">
