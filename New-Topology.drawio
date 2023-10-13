@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T15:44:42.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="HWnuKh4srjwXpAnepzEN" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T15:52:28.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="gX66WKlyXxPgVQ3F2Avk" version="22.0.4" type="github">
   <diagram name="Página-1" id="9tAOP30OlYWil3FMNe02">
     <mxGraphModel dx="1120" dy="2132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -86,13 +86,13 @@
           <mxGeometry x="112" y="-1555" width="168" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2fEGtuGKA0dDOJMrhrad-28" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Outdoor.svg;" vertex="1" parent="1">
-          <mxGeometry x="111.99999999999999" y="-1468.1999999999998" width="35.8" height="138.2" as="geometry" />
+          <mxGeometry x="111.99999999999999" y="-1484.9999999999998" width="35.8" height="138.2" as="geometry" />
         </mxCell>
         <mxCell id="2fEGtuGKA0dDOJMrhrad-29" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Outdoor.svg;" vertex="1" parent="1">
-          <mxGeometry x="192" y="-1409.4099999999999" width="40" height="154.41" as="geometry" />
+          <mxGeometry x="192" y="-1414.4099999999999" width="40" height="154.41" as="geometry" />
         </mxCell>
         <mxCell id="2fEGtuGKA0dDOJMrhrad-31" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Outdoor.svg;" vertex="1" parent="1">
-          <mxGeometry x="111.99999999999999" y="-1309.1" width="35.8" height="138.2" as="geometry" />
+          <mxGeometry x="111.99999999999999" y="-1294.1" width="35.8" height="138.2" as="geometry" />
         </mxCell>
         <mxCell id="2fEGtuGKA0dDOJMrhrad-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.933;entryY=0.534;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2fEGtuGKA0dDOJMrhrad-6" target="2fEGtuGKA0dDOJMrhrad-29">
           <mxGeometry relative="1" as="geometry" />
@@ -117,11 +117,32 @@
         <mxCell id="2fEGtuGKA0dDOJMrhrad-43" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
           <mxGeometry x="800" y="-1309.1" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2fEGtuGKA0dDOJMrhrad-45" value="Switch Core" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="970" y="-1505" width="72" height="30" as="geometry" />
+        <mxCell id="2fEGtuGKA0dDOJMrhrad-45" value="AP Gerencia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="-1290" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2fEGtuGKA0dDOJMrhrad-46" value="Switch DRP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="807" y="-1240" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2fEGtuGKA0dDOJMrhrad-47" value="Switch Core" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-1505" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2fEGtuGKA0dDOJMrhrad-48" value="AP admin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="93.9" y="-1350" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2fEGtuGKA0dDOJMrhrad-49" value="AP Sala juntas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-1295" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2fEGtuGKA0dDOJMrhrad-50" value="Switch Core" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="-1495" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2fEGtuGKA0dDOJMrhrad-51" value="Switch Core" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="-1485" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2fEGtuGKA0dDOJMrhrad-52" value="AP Infraestructura" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="152" y="-1270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2fEGtuGKA0dDOJMrhrad-53" value="AP Comercial" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="69.9" y="-1155.9" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
