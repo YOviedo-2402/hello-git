@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T16:05:07.006Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="AZ-vWXaV4MnYazoskBQe" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T16:05:56.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="07nelrMLuQNihG4tvfI3" version="22.0.4" type="github">
   <diagram name="Página-1" id="9tAOP30OlYWil3FMNe02">
     <mxGraphModel dx="1120" dy="2959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -32,7 +32,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2fEGtuGKA0dDOJMrhrad-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2fEGtuGKA0dDOJMrhrad-6" target="2fEGtuGKA0dDOJMrhrad-28">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="-1435" />
+              <mxPoint x="270" y="-1435" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2fEGtuGKA0dDOJMrhrad-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2fEGtuGKA0dDOJMrhrad-6" target="2fEGtuGKA0dDOJMrhrad-22">
           <mxGeometry relative="1" as="geometry">
@@ -66,7 +71,7 @@
           <mxGeometry x="800" y="-1474.41" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2fEGtuGKA0dDOJMrhrad-9" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="504" y="-1320" width="80" height="80" as="geometry" />
+          <mxGeometry x="505" y="-1320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2fEGtuGKA0dDOJMrhrad-11" value="Switch Core" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="512" y="-1400" width="72" height="30" as="geometry" />
@@ -111,7 +116,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2fEGtuGKA0dDOJMrhrad-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.028;entryY=0.572;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2fEGtuGKA0dDOJMrhrad-6" target="2fEGtuGKA0dDOJMrhrad-31">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="-1435" />
+              <mxPoint x="320" y="-1215" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2fEGtuGKA0dDOJMrhrad-36" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Outdoor.svg;" vertex="1" parent="1">
           <mxGeometry x="741.93" y="-1400" width="29.07" height="112.2" as="geometry" />
