@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T15:58:00.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="9yaI9r6n8Gzv_SFzDq-I" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T16:05:07.006Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="AZ-vWXaV4MnYazoskBQe" version="22.0.4" type="github">
   <diagram name="Página-1" id="9tAOP30OlYWil3FMNe02">
     <mxGraphModel dx="1120" dy="2959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -38,9 +38,16 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="320" y="-1435" />
-              <mxPoint x="320" y="-1596" />
-              <mxPoint x="196" y="-1596" />
+              <mxPoint x="320" y="-1650" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2fEGtuGKA0dDOJMrhrad-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2fEGtuGKA0dDOJMrhrad-6" target="2fEGtuGKA0dDOJMrhrad-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2fEGtuGKA0dDOJMrhrad-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2fEGtuGKA0dDOJMrhrad-6" target="2fEGtuGKA0dDOJMrhrad-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="-1540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2fEGtuGKA0dDOJMrhrad-6" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
@@ -76,11 +83,11 @@
         <mxCell id="2fEGtuGKA0dDOJMrhrad-17" value="Switch Bodega" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="-1409.41" width="86" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2fEGtuGKA0dDOJMrhrad-18" value="Switch Core" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="960" y="-1515" width="72" height="30" as="geometry" />
+        <mxCell id="2fEGtuGKA0dDOJMrhrad-18" value="DVR-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-1630" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2fEGtuGKA0dDOJMrhrad-19" value="F5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-1590" width="72" height="30" as="geometry" />
+          <mxGeometry x="160" y="-1700" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2fEGtuGKA0dDOJMrhrad-20" value="Switch Bunker" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="-1255" width="88" height="30" as="geometry" />
@@ -129,8 +136,8 @@
         <mxCell id="2fEGtuGKA0dDOJMrhrad-46" value="Switch DRP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="807" y="-1240" width="72" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2fEGtuGKA0dDOJMrhrad-47" value="Switch Core" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="970" y="-1505" width="72" height="30" as="geometry" />
+        <mxCell id="2fEGtuGKA0dDOJMrhrad-47" value="Controladora" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-1530" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2fEGtuGKA0dDOJMrhrad-48" value="AP admin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="93.9" y="-1350" width="72" height="30" as="geometry" />
@@ -149,6 +156,26 @@
         </mxCell>
         <mxCell id="2fEGtuGKA0dDOJMrhrad-53" value="AP Comercial" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="69.9" y="-1155.9" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2fEGtuGKA0dDOJMrhrad-54" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios.iVideoControls;barPos=20;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="112" y="-1580" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2fEGtuGKA0dDOJMrhrad-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.021;entryY=0.48;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2fEGtuGKA0dDOJMrhrad-6" target="2fEGtuGKA0dDOJMrhrad-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="-1435" />
+              <mxPoint x="400" y="-1556" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2fEGtuGKA0dDOJMrhrad-57" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_fiber_dvr_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="780" y="-1650" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2fEGtuGKA0dDOJMrhrad-58" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_fiber_dvr_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="780" y="-1565" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2fEGtuGKA0dDOJMrhrad-62" value="DVR-2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-1550" width="72" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
