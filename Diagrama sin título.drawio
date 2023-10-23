@@ -1,11 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T20:13:19.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="QnwFrh6MyEZSAcTCinGe" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T20:14:46.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="XEOvGBiOhbum_Xk2HAL-" version="22.0.6" type="github">
   <diagram name="Página-1" id="FHQW5izmsKJ2NYFROuAg">
     <mxGraphModel dx="1120" dy="1305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Uls6vSEw6MzNMp2DO8Zc-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-210" width="68" height="68" as="geometry" />
+          <mxGeometry x="485" y="-380" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Uls6vSEw6MzNMp2DO8Zc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uls6vSEw6MzNMp2DO8Zc-2" target="Uls6vSEw6MzNMp2DO8Zc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uls6vSEw6MzNMp2DO8Zc-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_3;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-483" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Uls6vSEw6MzNMp2DO8Zc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uls6vSEw6MzNMp2DO8Zc-3" target="Uls6vSEw6MzNMp2DO8Zc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uls6vSEw6MzNMp2DO8Zc-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_3;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="-483" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
