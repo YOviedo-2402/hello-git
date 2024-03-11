@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T19:03:36.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="CyV-xj5_LVCSiZU5dwGw" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T19:23:07.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="S-vIGWfKdVcjnUUJd3sH" version="24.0.4" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -10,11 +10,14 @@
         <mxCell id="7a84cebc1def654-2" value="Onboarding del proyecto" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="330" y="250" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="b9IbPptkN82zuu75mszw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7a84cebc1def654-3" target="b9IbPptkN82zuu75mszw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7a84cebc1def654-3" value="Levantamiento de información" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="540" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7a84cebc1def654-6" value="" style="shape=hexagon;whiteSpace=wrap;html=1;perimeter=hexagonPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="480" y="110" width="60" height="50" as="geometry" />
+          <mxGeometry x="305" y="50" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7a84cebc1def654-7" value="" style="html=1;shape=plus;" parent="7a84cebc1def654-6" vertex="1">
           <mxGeometry x="0.5" y="1" width="14" height="14" relative="1" as="geometry">
@@ -22,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7a84cebc1def654-26" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=end;symbol=general;" parent="1" vertex="1">
-          <mxGeometry x="810" y="100.00000000000006" width="50" height="50" as="geometry" />
+          <mxGeometry x="650" y="55.00000000000006" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7a84cebc1def654-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="1" source="7a84cebc1def654-1" target="7a84cebc1def654-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -41,14 +44,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPibh4w8N29Os2AbqoBM-4" value="Se identifica que aquí se utiliza el proceso de inception" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="XPibh4w8N29Os2AbqoBM-4" value="* Inception&lt;div&gt;*Reunion&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="305" y="390" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XPibh4w8N29Os2AbqoBM-5" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=rhombusPerimeter;background=gateway;outline=none;symbol=parallelGw;" parent="1" vertex="1">
-          <mxGeometry x="570" y="110" width="50" height="50" as="geometry" />
+          <mxGeometry x="410" y="50" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XPibh4w8N29Os2AbqoBM-6" value="Process" style="html=1;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="100" width="120" height="80" as="geometry" />
+          <mxGeometry x="490" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XPibh4w8N29Os2AbqoBM-7" value="" style="shape=mxgraph.bpmn.timer_start;perimeter=ellipsePerimeter;html=1;labelPosition=right;labelBackgroundColor=#ffffff;align=left;" parent="XPibh4w8N29Os2AbqoBM-6" vertex="1">
           <mxGeometry x="1" width="30" height="30" relative="1" as="geometry">
@@ -65,6 +68,15 @@
         </mxCell>
         <mxCell id="XPibh4w8N29Os2AbqoBM-10" value="* EntrevistaS&lt;div&gt;* Gravaciones&lt;/div&gt;&lt;div&gt;*EDT&lt;/div&gt;&lt;div&gt;* Flujos&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="370" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b9IbPptkN82zuu75mszw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b9IbPptkN82zuu75mszw-2" target="b9IbPptkN82zuu75mszw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b9IbPptkN82zuu75mszw-2" value="Impedimentos principales" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="740" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="b9IbPptkN82zuu75mszw-4" value="* No tener equipo definido&lt;div&gt;* La disponibilidad del cliente&lt;/div&gt;&lt;div&gt;* Desconocimiento de las metodologías&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="370" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
