@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T19:23:40.149Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="G_9plBq4tEQbrkSoaNd9" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T19:34:16.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="gSfBtTq8LFg6o5ZkTg8K" version="24.0.4" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -44,8 +44,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPibh4w8N29Os2AbqoBM-4" value="* Inception&lt;div&gt;*Reunion&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="305" y="390" width="170" height="50" as="geometry" />
+        <mxCell id="XPibh4w8N29Os2AbqoBM-4" value="* Inception&lt;div&gt;*Reunion&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="327.5" y="390" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XPibh4w8N29Os2AbqoBM-5" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=rhombusPerimeter;background=gateway;outline=none;symbol=parallelGw;" parent="1" vertex="1">
           <mxGeometry x="410" y="50" width="50" height="50" as="geometry" />
@@ -66,7 +66,7 @@
             <mxPoint x="-7" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPibh4w8N29Os2AbqoBM-10" value="* EntrevistaS&lt;div&gt;* Gravaciones&lt;/div&gt;&lt;div&gt;*EDT&lt;/div&gt;&lt;div&gt;* Flujos&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="XPibh4w8N29Os2AbqoBM-10" value="* EntrevistaS&lt;div&gt;* Gravaciones&lt;/div&gt;&lt;div&gt;*EDT&lt;/div&gt;&lt;div&gt;* Flujos&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="370" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="b9IbPptkN82zuu75mszw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b9IbPptkN82zuu75mszw-2" target="b9IbPptkN82zuu75mszw-4">
@@ -78,8 +78,8 @@
         <mxCell id="b9IbPptkN82zuu75mszw-2" value="Impedimentos principales" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="740" y="250" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="b9IbPptkN82zuu75mszw-4" value="* No tener equipo definido&lt;div&gt;* La disponibilidad del cliente&lt;/div&gt;&lt;div&gt;* Desconocimiento de las metodologías&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="370" width="180" height="80" as="geometry" />
+        <mxCell id="b9IbPptkN82zuu75mszw-4" value="* No tener equipo definido&lt;div&gt;* La disponibilidad del cliente&lt;/div&gt;&lt;div&gt;* Desconocimiento de las metodologías&lt;/div&gt;&lt;div&gt;* No tener los roles bien definidos&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="365" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b9IbPptkN82zuu75mszw-6" value="" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="940" y="250" width="120" height="80" as="geometry" />
