@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T20:18:14.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="dgPdJ9EYVb64Qb2Gb29b" version="24.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T16:49:15.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="gb_A81Q5JkeZYwFV7qUd" version="24.0.4" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="7a84cebc1def654-2" value="Onboarding del proyecto" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="305" y="250" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="b9IbPptkN82zuu75mszw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7a84cebc1def654-3" target="b9IbPptkN82zuu75mszw-2">
+        <mxCell id="b9IbPptkN82zuu75mszw-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7a84cebc1def654-3" target="b9IbPptkN82zuu75mszw-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7a84cebc1def654-3" value="Levantamiento de información" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
@@ -33,7 +33,7 @@
         <mxCell id="7a84cebc1def654-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="1" source="7a84cebc1def654-2" target="7a84cebc1def654-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7a84cebc1def654-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7a84cebc1def654-3" edge="1" target="XPibh4w8N29Os2AbqoBM-10">
+        <mxCell id="7a84cebc1def654-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7a84cebc1def654-3" target="XPibh4w8N29Os2AbqoBM-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630" y="370" as="targetPoint" />
           </mxGeometry>
@@ -67,30 +67,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XPibh4w8N29Os2AbqoBM-10" value="* EntrevistaS&lt;div&gt;* Gravaciones&lt;/div&gt;&lt;div&gt;*EDT&lt;/div&gt;&lt;div&gt;* Plantillas Wod&lt;/div&gt;&lt;div&gt;* Plantillas HU&lt;/div&gt;&lt;div&gt;* Flujos&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="370" width="100" height="90" as="geometry" />
+          <mxGeometry x="480" y="370" width="100" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="b9IbPptkN82zuu75mszw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b9IbPptkN82zuu75mszw-2" target="b9IbPptkN82zuu75mszw-4">
+        <mxCell id="b9IbPptkN82zuu75mszw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b9IbPptkN82zuu75mszw-2" target="b9IbPptkN82zuu75mszw-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b9IbPptkN82zuu75mszw-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b9IbPptkN82zuu75mszw-2" target="b9IbPptkN82zuu75mszw-6">
+        <mxCell id="b9IbPptkN82zuu75mszw-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b9IbPptkN82zuu75mszw-2" target="b9IbPptkN82zuu75mszw-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b9IbPptkN82zuu75mszw-2" value="Impedimentos principales" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="b9IbPptkN82zuu75mszw-2" value="Impedimentos principales" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="670" y="250" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="b9IbPptkN82zuu75mszw-4" value="* No tener equipo definido&lt;div&gt;* La disponibilidad del cliente&lt;/div&gt;&lt;div&gt;* Desconocimiento de las metodologías&lt;/div&gt;&lt;div&gt;* No tener los roles bien definidos&lt;/div&gt;&lt;div&gt;* Falta de claridad en los objetivos&lt;/div&gt;&lt;div&gt;* Resistencia al cambio&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="b9IbPptkN82zuu75mszw-4" value="* No tener equipo definido&lt;div&gt;* La disponibilidad del cliente&lt;/div&gt;&lt;div&gt;* Desconocimiento de las metodologías&lt;/div&gt;&lt;div&gt;* No tener los roles bien definidos&lt;/div&gt;&lt;div&gt;* Falta de claridad en los objetivos&lt;/div&gt;&lt;div&gt;* Resistencia al cambio&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="370" width="220" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="b9IbPptkN82zuu75mszw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b9IbPptkN82zuu75mszw-6" target="b9IbPptkN82zuu75mszw-8">
+        <mxCell id="b9IbPptkN82zuu75mszw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b9IbPptkN82zuu75mszw-6" target="b9IbPptkN82zuu75mszw-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b9IbPptkN82zuu75mszw-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b9IbPptkN82zuu75mszw-6" target="7a84cebc1def654-26">
+        <mxCell id="b9IbPptkN82zuu75mszw-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="b9IbPptkN82zuu75mszw-6" target="7a84cebc1def654-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b9IbPptkN82zuu75mszw-6" value="Necesidades mas relevantes" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="b9IbPptkN82zuu75mszw-6" value="Necesidades mas relevantes" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="970" y="250" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="b9IbPptkN82zuu75mszw-8" value="* Mejores prácticas par no exeder las fechas pactadas&lt;div&gt;* Definir herramientas para los procesos&lt;/div&gt;&lt;div&gt;* Herramientas para levantamiento den equipos híbridos&lt;/div&gt;&lt;div&gt;* Programación de tableros en Azure DevOps&lt;/div&gt;&lt;div&gt;* Mejorar técnicas de priorización&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="b9IbPptkN82zuu75mszw-8" value="* Mejores prácticas par no exeder las fechas pactadas&lt;div&gt;* Definir herramientas para los procesos&lt;/div&gt;&lt;div&gt;* Herramientas para levantamiento den equipos híbridos&lt;/div&gt;&lt;div&gt;* Programación de tableros en Azure DevOps&lt;/div&gt;&lt;div&gt;* Mejorar técnicas de priorización&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="865" y="380" width="330" height="90" as="geometry" />
         </mxCell>
       </root>
