@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T20:09:56.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7XZmlXOfzJweZbfCw2kk" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T20:15:41.107Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="g0RWrtsdRgGFeto_1PaZ" version="24.0.5" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="875" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -87,8 +87,8 @@
         <mxCell id="b9IbPptkN82zuu75mszw-6" value="Necesidades mas relevantes" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1005" y="250" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="b9IbPptkN82zuu75mszw-8" value="* Mejores prácticas par no exeder las fechas pactadas&lt;div&gt;* Definir herramientas para los procesos&lt;/div&gt;&lt;div&gt;* Herramientas para levantamiento den equipos híbridos&lt;/div&gt;&lt;div&gt;* Programación de tableros en Azure DevOps&lt;/div&gt;&lt;div&gt;* Mejorar técnicas de priorización&lt;/div&gt;&lt;div&gt;* Negociación&lt;/div&gt;&lt;div&gt;* Manejo de clientes&lt;/div&gt;&lt;div&gt;* Comunicación con equipo de arquitectura&lt;/div&gt;&lt;div&gt;* Técnicas de estimación efectiva&lt;/div&gt;&lt;div&gt;* Técnicas de división de HU&lt;/div&gt;&lt;div&gt;* Técnicas de lavantamiento de información&lt;/div&gt;&lt;div&gt;*&lt;b&gt; ROY- JA&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;* Herramientas y tecnologías relevantes AZ&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;* Conocimiento del docminio del proyecto AZ&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="900" y="370" width="330" height="230" as="geometry" />
+        <mxCell id="b9IbPptkN82zuu75mszw-8" value="* Mejores prácticas par no exeder las fechas pactadas&lt;div&gt;* Definir herramientas para los procesos&lt;/div&gt;&lt;div&gt;* Herramientas para levantamiento den equipos híbridos&lt;/div&gt;&lt;div&gt;* Programación de tableros en Azure DevOps&lt;/div&gt;&lt;div&gt;* Mejorar técnicas de priorización&lt;/div&gt;&lt;div&gt;* Negociación&lt;/div&gt;&lt;div&gt;* Manejo de clientes&lt;/div&gt;&lt;div&gt;* Comunicación con equipo de arquitectura&lt;/div&gt;&lt;div&gt;* Técnicas de estimación efectiva&lt;/div&gt;&lt;div&gt;* Técnicas de división de HU&lt;/div&gt;&lt;div&gt;* &lt;b&gt;Técnicas de lavantamiento de información&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;ROY- JA&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;* Herramientas y tecnologías relevantes AZ&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;* Conocimiento del docminio del proyecto AZ&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="890" y="370" width="330" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
