@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T20:15:51.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pRqY94MaSDBdzdhjoEVy" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-12T20:23:30.811Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="f3UUQTBR3C3GiluP0qrC" version="24.0.5" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="875" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -41,8 +41,8 @@
             <mxPoint x="630" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XPibh4w8N29Os2AbqoBM-4" value="* Inception&lt;div&gt;* Reunion&lt;/div&gt;&lt;div&gt;* Grabaciones&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="281.25" y="380" width="97.5" height="60" as="geometry" />
+        <mxCell id="XPibh4w8N29Os2AbqoBM-4" value="* Inception&lt;div&gt;* Reunion&lt;/div&gt;&lt;div&gt;* Grabaciones&lt;/div&gt;&lt;div&gt;* Objetivos claros del proyecto&lt;/div&gt;&lt;div&gt;* Restricciones del proyecto&lt;/div&gt;&lt;div&gt;* Recuros&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="240" y="380" width="138.75" height="130" as="geometry" />
         </mxCell>
         <mxCell id="XPibh4w8N29Os2AbqoBM-5" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=rhombusPerimeter;background=gateway;outline=none;symbol=parallelGw;" parent="1" vertex="1">
           <mxGeometry x="410" y="50" width="50" height="50" as="geometry" />
